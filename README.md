@@ -1,5 +1,5 @@
 ## Project description
-This project is a CRUD system designed for efficient movie management within a cinema setting. It employs **MySQL** for data storage, **PHP** with the **SLIM Framework** for backend logic, and **Vue.js** for the frontend. Following **REST architecture** principles, it enables seamless interaction between components while emphasizing simplicity and effectiveness.
+This project is a CRUD system designed for efficient movie management within a cinema setting. It employs **MySQL** for data storage, **PHP** with the **SLIM Framework** for backend logic, and **Vue.js** for the frontend. Following **REST architecture** principles, it enables seamless interaction between components while emphasizing simplicity and effectiveness.This system allows us to effortlessly navigate and manipulate movie data, including movie title, genre, version, hall, date, timetable, and length, offering a holistic view of cinema operations. <br>
 This system was designed for academic purposes and does not represent an actual cinema establishment.
 
 We can start the server and run this project using the below command.
